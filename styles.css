@@ -17,6 +17,8 @@
 	background-color: #F3F3.FFFFFFFFFFF8F5;
 	width: 1680px;
 	height: 6797px;
+	display: block;
+	margin: 0 auto;
 }
 
 .sk-asset.sk-content {
@@ -81,5 +83,9 @@ only screen and (min-device-pixel-ratio: 2) {
  
   min-width: 100%; 
   min-height: 100%; 
+
+}
+
+body {
 
 }
