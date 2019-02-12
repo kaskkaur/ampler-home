@@ -16,14 +16,14 @@
 .sk-ab.sk-home-3-0 {
 	background-color: #F3F3.FFFFFFFFFFF8F5;
 	width: 1680px;
-	height: 7246px;
+	height: 7000px;
 	display: block;
 	margin: 0 auto;
 }
 
 .sk-asset.sk-content {
 	width: 1681px;
-	height: 6296px;
+	height: 6050px;
 	left: 0px;
 	top: 950px;
 	background-image: url("images/content.png");
@@ -35,7 +35,7 @@ only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
 	.sk-asset.sk-content {
 		background-image: url("images/content@2x.png");
-		background-size: 1681px 6296px;
+		background-size: 1681px 6050px;
 	}
 }
 .sk-asset.sk-hero-img {
